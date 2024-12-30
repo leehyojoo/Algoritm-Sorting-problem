@@ -1,8 +1,39 @@
 # Algoritm-Sorting-problem
 
-4가지의 sorting algorithm을 구현해 time complexity를 비교하고자 하였음.
+# 정렬 알고리즘 시간 복잡도 비교
 
-(1) Comparison ALGORITHM
+이 프로젝트는 삽입 정렬, 퀵 정렬, 힙 정렬, 그리고 인트로 정렬의 시간 복잡도를 비교하기 위해 설계 되었음.
+각 알고리즘을 구현하고 다양한 데이터셋에 대해 실행하여 성능을 관찰하고자 함.
+
+## 프로젝트 개요
+
+이 프로젝트는 다음의 정렬 알고리즘들을 구현하고 성능을 비교:
+
+- **삽입 정렬 (Insertion Sort)**
+- **퀵 정렬 (Quick Sort)**
+- **힙 정렬 (Heap Sort)**
+- **인트로 정렬 (Intro Sort)**
+
+목표는 각 데이터셋 크기 및 분포에 따른 알고리즘의 시간 복잡도를 관찰하고 기록하는 것임.
+
+---
+
+## 설치 방법
+
+   1. 프로젝트 클론:
+   ```bash
+   git clone <repository_url>
+   cd <repository_name>
+
+   2. 컴파일:
+   make
+
+   3. 실행:
+   ./mp_20200901
+
+---
+
+## Sorting Algorithm
 
 Algorithm1 - Insertion Sort
 Algorithm2 – quick sort
