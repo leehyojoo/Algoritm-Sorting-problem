@@ -14,17 +14,6 @@
 
 목표는 각 데이터셋 크기 및 분포에 따른 알고리즘의 시간 복잡도를 관찰하고 기록하는 것임.
 
-## 설치 방법
-
-1. 프로젝트 클론:
- ```bash
-   git clone <repository_url>
-   cd <repository_name>
-2. 컴파일:
-   make
-3. 실행:
-   ./mp_20200901
-
 ## Sorting Algorithm
 
 Algorithm1 - Insertion Sort
